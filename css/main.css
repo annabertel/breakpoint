@@ -1,0 +1,19 @@
+/* ----------- Smartphones smaller than 767px wide ----------- */
+
+body {
+	background: #9b2948;
+}
+
+
+/* ----------- Tablets larger than 768px wide ----------- */
+@media (min-width: 768px) {
+	body {
+    background: #ff7251;
+	}
+
+
+/* ----------- Monitors larger than 1200px wide ----------- */
+@media (min-width: 1200px) {
+	body {
+		background: #ffca7b;
+}
